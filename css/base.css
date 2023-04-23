@@ -1,0 +1,10 @@
+body {
+    font-family: 'Microsoft YaHei';
+    font-size: 18px;
+    background-color: #FFFFFF;
+}
+
+.center-wrap {
+    width: 1200px;
+    margin: 0 auto;
+}
